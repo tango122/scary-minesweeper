@@ -38,7 +38,7 @@ while True:
         # display win screen according to screen size
         if win:
             screen.fill('Black')
-            win_surf = scary_font.render('YOU WIN',True,(235,238,245))
+            win_surf = scary_font.render('YOU SURVIVED',True,(235,238,245))
             if fullscreen:
                 win_rect = win_surf.get_rect(midbottom = (screen_size[0]/2,screen_size[1]*.56))
             else:
