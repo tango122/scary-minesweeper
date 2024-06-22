@@ -11,7 +11,7 @@ You can find the basic game rules and strategies [here](https://minesweepergame.
  - Randomly generated jumpscares
  - Dynamically scaled tiles
  - Music
-## Libraries Used
+## Additional Libraries Used
 - Pygame
 ## Screenshots
 ![Menu Screen](https://github.com/tango122/scary-minesweeper/blob/main/minesweeper_screenshots/MENU.png)
